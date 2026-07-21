@@ -46,17 +46,7 @@ Each day's folder contains:
 - Git & GitHub (Learning)
 - Visual Studio Code
 
-More technologies will be added as I continue learning.
-
----
-
-## 📈 Progress
-
-- ✅ Day 1 - Python Fundamentals
-- ⬜ Day 2
-- ⬜ Day 3
-- ⬜ Day 4
-- ⬜ Day 5
+More technologies will be added as I continue learning.
 
 ---
 
